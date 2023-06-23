@@ -6,4 +6,6 @@
 .sidebar {
     width: 20%;
     margin: 10px 0 10px 0;
+    font-family: serif;
+    font-size: 20px;
 }
