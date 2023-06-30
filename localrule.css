@@ -11,6 +11,11 @@
     font-size: 20px;
 }
 
+.sidebar a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .content{
     background-color: lightgreen;
     width: 1000px 
