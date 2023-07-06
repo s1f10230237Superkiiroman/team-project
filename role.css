@@ -27,11 +27,12 @@
 }
 
 table img{
-    width: 70px;
+    width: 90px;
     height: auto;
 }
 th.name{
     padding-left: 30px;
+    width: 120px;
 }
 
 h2{
