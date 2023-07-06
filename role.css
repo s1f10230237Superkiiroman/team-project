@@ -36,3 +36,16 @@
     color: red;
     font-size: 18px;
 }
+
+table img{
+    width: 90px;
+    height: auto;
+}
+th.name{
+    padding-left: 30px;
+    width: 120px;
+}
+
+h2{
+    border-bottom: #000000;
+}
