@@ -41,3 +41,11 @@ height: auto;
 #imano{
     text-decoration: underline #ffffff;
 }
+
+h2{
+    color: purple;
+}
+
+.important{
+    color: #fb4949;
+}
