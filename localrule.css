@@ -56,4 +56,13 @@ height: auto;
 
 #black2{
     color:black;
+    text-decoration: underline #ffffff;
+}
+
+h2{
+    color: purple;
+}
+
+.important{
+    color: #fb4949;
 }
