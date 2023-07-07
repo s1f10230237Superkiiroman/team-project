@@ -39,3 +39,8 @@ table{
 #imano{
     text-decoration: underline #ffffff;
 }
+
+img{
+    width: 200px;
+    height: auto;
+}

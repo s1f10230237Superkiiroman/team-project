@@ -49,3 +49,9 @@ h2{
 .important{
     color: #fb4949;
 }
+table{
+   border: solid 4px #ffffff; 
+}
+table td{
+    border: solid 4px #ffffff; 
+}
