@@ -24,9 +24,6 @@
     padding: 5px 5px 5px 5px;
     background-color: #fb4949;
 }
-h2#id1{
-    border-bottom: solid 4px white;
-}
 
 .sidebar ul{
     padding-left: 20px;
@@ -53,8 +50,8 @@ th.name{
 }
 
 h2{
-    border-bottom: solid 4px #000000;
-    margin-left: 30px;
+    text-decoration: underline #ffffff;
+    margin-left: 25px;
 }
 
 table{
@@ -64,4 +61,8 @@ table{
 .star{
     font-size: 20px;
     color: #FFD700;
+}
+
+#imano{
+    text-decoration: underline #ffffff;
 }

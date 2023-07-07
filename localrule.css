@@ -37,3 +37,7 @@ img{
 width: 70px;
 height: auto;
 }
+
+#imano{
+    text-decoration: underline #ffffff;
+}
