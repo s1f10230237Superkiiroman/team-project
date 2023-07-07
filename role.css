@@ -9,6 +9,7 @@
     font-family: serif;
     color: #ffffff;
     font-size: 20px;
+    border-bottom:  #ffffff;
 }
 
 .sidebar a{
@@ -22,6 +23,9 @@
     margin-bottom: 10px;
     padding: 5px 5px 5px 5px;
     background-color: #fb4949;
+}
+h2#id1{
+    border-bottom: solid 4px white;
 }
 
 .sidebar ul{
@@ -49,7 +53,7 @@ th.name{
 }
 
 h2{
-    border-bottom: #000000;
+    border-bottom: solid 4px #000000;
     margin-left: 30px;
 }
 
