@@ -30,7 +30,7 @@
 }
 .content{
     background-color: lightgreen;
-    width: 1000px 
+    width: 1200px 
 }
 
 .danger{
@@ -81,4 +81,8 @@ table{
 
 #black2{
     color:black;
+}
+
+td{
+    width: 500px;
 }
