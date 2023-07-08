@@ -52,3 +52,15 @@
 #black2{
     color:black;
 }
+
+.rule{
+    font-size: 18px;
+}
+th{
+    width: 70px;
+}
+td{
+    width: 800px;
+}
+
+
